@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to practice the HTML I have learned so far. The project is to build a simple website with the main page having links to 3 separate pages with recipes on them. Each recipe page has the name of the recipe, a description, a list of ingredients, and the steps require to make the meal.
